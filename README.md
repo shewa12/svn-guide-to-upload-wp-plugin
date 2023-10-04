@@ -13,6 +13,12 @@ svn co https://plugins.svn.wordpress.org/your-plugin-name
 
 Once WordPress approves your plugin they will provide you SVN URL. Replace `your-plugin-name` with the actual name of your WordPress plugin.
 
+You should have got 3 directories:
+
+- assets
+- tags
+- trunk
+
 ## Step 2: Make Changes
 
 Make the necessary changes to your plugin files located in the `trunk` folder. This is where you'll work on your plugin's code, features, and bug fixes.
