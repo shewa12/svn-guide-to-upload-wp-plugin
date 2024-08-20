@@ -1,5 +1,5 @@
 
-# SVN Workflow for Managing WordPress Plugin
+# SVN Guide for Managing WordPress Plugin
 
 This guide outlines a step-by-step process for managing your WordPress plugin to add/update in the WordPress repository using SVN (Subversion). SVN is a version control system that helps you track changes, collaborate with others, and maintain a history of your project.
 
